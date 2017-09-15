@@ -1,0 +1,23 @@
+{
+  "name": "mysql-node-grandes-quantidades",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardofoliveira/mysql-node-grandes-quantidades.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardofoliveira/mysql-node-grandes-quantidades/issues"
+  },
+  "homepage": "https://github.com/eduardofoliveira/mysql-node-grandes-quantidades#readme",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
+}
